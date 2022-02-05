@@ -27,16 +27,120 @@ The prerequisites for this course are _24.970 Introduction to Semantics_ or perm
 
 Heim, Irene, and Angelika Kratzer. _Semantics in Generative Grammar_. Malden, MA: Blackwell Publishers, 1998, pp. 1-238. ISBN: 9780631197133.
 
-| CHAPTERS | TITLES | PAGES |
-| --- | --- | --- |
-| 1 | Truth-conditional semantics and the Fregean program | 1-12 |
-| 2 | Executing the Fregean program | 13-42 |
-| 3 | Semantics and syntax | 43-60 |
-| 4 | More of English: nonverbal predicates, modifiers, definite descriptions | 61-85 |
-| 5 | Relative clauses, variables, variable binding | 86-130 |
-| 6 | Quantifiers: their semantic type | 131-177 |
-| 7 | Quantification and grammar | 178-208 |
-| 8 | Syntactic and semantic constraints on quantifier movement | 209-238 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CHAPTERS
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+{{< thopen >}}
+PAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Truth-conditional semantics and the Fregean program
+{{< tdclose >}}
+{{< tdopen >}}
+1-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Executing the Fregean program
+{{< tdclose >}}
+{{< tdopen >}}
+13-42
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Semantics and syntax
+{{< tdclose >}}
+{{< tdopen >}}
+43-60
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More of English: nonverbal predicates, modifiers, definite descriptions
+{{< tdclose >}}
+{{< tdopen >}}
+61-85
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Relative clauses, variables, variable binding
+{{< tdclose >}}
+{{< tdopen >}}
+86-130
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Quantifiers: their semantic type
+{{< tdclose >}}
+{{< tdopen >}}
+131-177
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Quantification and grammar
+{{< tdclose >}}
+{{< tdopen >}}
+178-208
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Syntactic and semantic constraints on quantifier movement
+{{< tdclose >}}
+{{< tdopen >}}
+209-238
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 If you have not completed 24.970, please talk to us before you enroll (or commit yourself to staying enrolled).
 
@@ -70,10 +174,39 @@ Preferably, this will be a didactic exposition and critical discussion of points
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework problems | 20% |
-| Short paper | 80% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework problems
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Course_Outline" >}}{{< /anchor >}}Course Outline
 ------------------------------------------------------------

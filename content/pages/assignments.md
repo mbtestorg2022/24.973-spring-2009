@@ -11,13 +11,104 @@ Approximately one week was allowed for each assignment. There were a total of 26
 
 \[Intensional Semantics\] = von Fintel, Kai, and Irene Heim. Lecture notes. "Intensional Semantics." http://kaivonfintel.org/teaching/. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
 
-| SES OUT | SES DUE | ASSIGNMENTS |
-| --- | --- | --- |
-| 2 | 5 | Please do all six exercises in Chapters 1 and 2 of \[Intensional Semantics\]. Submit only your solutions to Exercises 1.2 and 2.1. |
-| 6 | 9 | Submit answers to Exercises 3.4 and 3.5. Read at least one of the supplementary readings listed in Chapters 1 to 3 of \[Intensional Semantics\]. |
-| 11 | 13 | Read (at least) one of the recommended supplementary readings (can be continued from the last assignment) and submit at least one page of comments and questions about the reading. |
-| 14 | 17 |  {{< br >}}{{< br >}} When a quantifier appears in a tensed sentence, we might expect two scope construals. {{< br >}}{{< br >}} Consider a sentence like this: {{< br >}}{{< br >}} (1) Every professor (in the department) was a teenager in the Sixties. {{< br >}}{{< br >}} We can imagine two LFs: {{< br >}}{{< br >}} (2) PAST \[ \[every professor teenager\] in the sixties\] {{< br >}}{{< br >}} (3) Every professor \\lambda x \[ PAST(x teenager)(in the sixties)\] {{< br >}}{{< br >}} a) Calculate the different truth-conditions which our system assigns to the two LFs. (Assume the system presented in class according to which temporal adverbials express propositions.) State the lexical entries and present your calculations step-by-step. {{< br >}}{{< br >}} b) Is the sentence ambiguous in this way? {{< br >}}{{< br >}} c) If not this sentence, are there analogous sentences that do have the ambiguity? {{< br >}}{{< br >}}  |
-| 20 | 22 | Do Exercise 7.5 in Chapter 7 of \[Intensional Semantics\]. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES OUT
+{{< thclose >}}
+{{< thopen >}}
+SES DUE
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Please do all six exercises in Chapters 1 and 2 of \[Intensional Semantics\]. Submit only your solutions to Exercises 1.2 and 2.1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Submit answers to Exercises 3.4 and 3.5. Read at least one of the supplementary readings listed in Chapters 1 to 3 of \[Intensional Semantics\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Read (at least) one of the recommended supplementary readings (can be continued from the last assignment) and submit at least one page of comments and questions about the reading.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+When a quantifier appears in a tensed sentence, we might expect two scope construals.
+
+Consider a sentence like this:
+
+(1) Every professor (in the department) was a teenager in the Sixties.
+
+We can imagine two LFs:
+
+(2) PAST \[ \[every professor teenager\] in the sixties\]
+
+(3) Every professor \\lambda x \[ PAST(x teenager)(in the sixties)\]
+
+a) Calculate the different truth-conditions which our system assigns to the two LFs. (Assume the system presented in class according to which temporal adverbials express propositions.) State the lexical entries and present your calculations step-by-step.
+
+b) Is the sentence ambiguous in this way?
+
+c) If not this sentence, are there analogous sentences that do have the ambiguity?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Do Exercise 7.5 in Chapter 7 of \[Intensional Semantics\].
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Short Paper Related to Topics Covered in 24.970 and/or 24.973
 -------------------------------------------------------------
